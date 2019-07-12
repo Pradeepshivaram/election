@@ -1,0 +1,21 @@
+{
+  "name": "election-results",
+  "version": "1.0.0",
+  "description": "Election Results",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pradeepshivaram",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  },
+  "dependencies": {
+    "web3": "^1.0.0-beta.55"
+  }
+}
